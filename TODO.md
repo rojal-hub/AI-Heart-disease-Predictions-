@@ -2,10 +2,10 @@
 
 ## Pending:
 - [ ] Install GitHub CLI (gh)
-- [ ] Create new branch blackboxai/push-entire-project
-- [ ] (No changes needed; repo clean)
-- [ ] Commit & push branch
-- [ ] Open PR to main
+- [ ] Open PR via https://github.com/rojal-hub/AI-Heart-disease-Predictions-/pull/new/blackboxai/push-entire-project
 
 ## Completed:
+- [x] Create new branch blackboxai/push-entire-project
+- [x] Add TODO.md
+- [x] Commit & push branch
 
